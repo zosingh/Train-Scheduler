@@ -1,0 +1,10 @@
+body {
+   background-image: url("../images/train.jpg");
+}
+
+.jumbotron {
+	margin-top: 2px;
+}
+.card {
+	margin-bottom: 2px;
+}
